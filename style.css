@@ -1,0 +1,8 @@
+body{
+    font-family: monospace;
+    background: linear-gradient(120deg, #bc93ff, #6200ff)
+}
+form{
+    display: block;
+    margin-block-end: auto;
+}
